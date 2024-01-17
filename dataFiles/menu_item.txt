@@ -1,0 +1,19 @@
+101,Oil,7.0,1
+102,Tea Pack,5.95,1
+103,Sugar,6.5,1
+104,Meat,10.95,1
+105,Vegetables,4.95,1
+106,Ice Cream,3.95,1
+107,Coke,2.95,1
+200,Mobile Phones,30.5,2
+201,Laptops,38.5,2
+202,Headphones,15.5,2
+203,Gaming Equipments,25.0,2
+302,Milk,7.0,3
+303,Egg,4.0,3
+304,Bread,2.0,3
+305,Jams & Honey,5.0,3
+401,FaceWash,6.0,4
+402,Makeup,35.0,4
+403,Creams,18.0,4
+404,BodySpray,8.0,4

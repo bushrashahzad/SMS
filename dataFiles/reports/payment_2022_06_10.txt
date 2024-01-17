@@ -1,0 +1,4 @@
+*********** Payment List (2022_06_10) ***********
+Order ID:1000  StaffName:Urooj Naeem                     Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:$100.0(1)

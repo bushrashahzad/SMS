@@ -1,0 +1,4 @@
+*********** Order List (2022_05_25) ***********
+Order ID:   1  StaffName:Abdur Rehman                    Total:$20.30 
+-------------------------------------------------------
+Total sales:$20.3(1)  Canceled:$0.0(0)
